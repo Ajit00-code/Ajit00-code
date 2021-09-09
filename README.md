@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajit Bombe 
 - 👀 I’m interested in Software developement.
-- 🌱 I’m currently pursuing MCA Second year.
+- 🌱 I’m currently pursuing MCA last year.
 - 💞️ I’m looking to collaborate with the oraganization where I can explore my skills and grow my carrier.
 - 📫 You can reach me at ajitbombe11@gmail.com
 
