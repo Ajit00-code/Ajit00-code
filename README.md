@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Ajit Bombe 
-- 👀 I’m interested in Software developement.
-- 🌱 I’m currently pursuing MCA last year.
-- 💞️ I’m looking to collaborate with the oraganization where I can explore my skills and grow my career.
-- 📫 You can reach me at ajitbombe11@gmail.com
+👋 Hi, I'm Ajit Bombe
 
-<!---
-Ajit00-code/Ajit00-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Software developer with 4+ years of experience in enterprise application development
+- 🚀 I build end-to-end solutions, from requirements and development to deployment and support
+- 🎯 I focus on simplifying business processes with clean, maintainable solutions
+- 🌱 Always learning and exploring better ways to build software
+- 📫 You can reach me at ajitbombe11@gmail.com
